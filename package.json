@@ -21,7 +21,7 @@
     "express": "^4.16.4",
     "luxon": "^1.15.0",
     "moment": "^2.24.0",
-    "nuxt": "^2.8.1",
+    "nuxt": "^2.15.8",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
     "scramjet": "^4.24.2",
