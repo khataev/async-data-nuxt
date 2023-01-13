@@ -24,7 +24,7 @@
     "nuxt": "^2.8.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.7",
-    "scramjet": "^4.24.2",
+    "scramjet": "^4.36.9",
     "vue-select": "^3.1.0",
     "vuejs-datepicker": "^1.5.4"
   },
